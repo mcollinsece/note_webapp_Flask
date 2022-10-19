@@ -14,6 +14,7 @@ urllib3 = "==1.26.12"
 flask = "*"
 
 [dev-packages]
+python-dotenv = "*"
 
 [requires]
 python_version = "3.7"
