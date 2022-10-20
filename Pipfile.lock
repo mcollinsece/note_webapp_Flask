@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "a381ad80a4ea071f1835ddc5f15094cdf463fecc406bee0f3fef8fbaad447b68"
+            "sha256": "eb1d0137fc5b72ebbfbeaf65b60bfe0e6c819b81d6cf12b891400833285fcd14"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -238,6 +238,14 @@
             ],
             "markers": "python_version >= '3.7'",
             "version": "==2.1.1"
+        },
+        "mistune": {
+            "hashes": [
+                "sha256:182cc5ee6f8ed1b807de6b7bb50155df7b66495412836b9a74c8fbdfc75fe36d",
+                "sha256:9ee0a66053e2267aba772c71e06891fa8f1af6d4b01d5e84e267b4570d4d9808"
+            ],
+            "index": "pypi",
+            "version": "==2.0.4"
         },
         "psycopg2-binary": {
             "hashes": [
